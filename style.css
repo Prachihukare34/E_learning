@@ -1,0 +1,8 @@
+/* style.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.hero {
+  background: linear-gradient(to right, #0d6efd, #0056b3);
+}
